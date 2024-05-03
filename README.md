@@ -3,7 +3,6 @@
 ###
 
 <img align="right" height="150" src=""  />
-![Uploading 8ow22v.gif…]()
 
 ###
 
@@ -26,6 +25,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
+![8ow22v](https://github.com/abhishek-kr03/abhishek-kr03/assets/166202255/5789990d-aaab-4e27-8449-d3e92e0c6701)
 
 ###
 
