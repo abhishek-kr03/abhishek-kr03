@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="![8ow22v](https://github.com/abhishek-kr03/abhishek-kr03/assets/166202255/569e95b6-64af-42d9-8c0f-b7c61b043e67)"  />
+<img align="right" height="150" src="(https://github.com/abhishek-kr03/abhishek-kr03/assets/166202255/569e95b6-64af-42d9-8c0f-b7c61b043e67)"  />
 ![8ow22v](https://github.com/abhishek-kr03/abhishek-kr03/assets/166202255/569e95b6-64af-42d9-8c0f-b7c61b043e67)
 
 ###
