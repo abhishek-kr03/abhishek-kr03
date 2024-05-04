@@ -26,8 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://github.com/abhishek-kr03/abhishek-kr03/assets/166202255/aee9848e-73ec-44f6-b9eb-3d79e5ccfde8 height="30" alt="eclipse logo"  />
+
 </div>
 
 
