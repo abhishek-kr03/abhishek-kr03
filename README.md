@@ -1,5 +1,4 @@
 <h2 align="left">🚀Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> and welcome😃, I'm Abhishek, a dedicated software developer🧑‍💻. 
-<img align="right" height="290px" src="https://github.com/abhishek-kr03/abhishek-kr03/assets/166202255/393fe8f7-6b8d-47b2-a9c2-bf8d116d9c41"/>  
 Certainly! As a software developer, I specialize in JAVA PROGRAMMING📺 and thrive on tackling real-world challenges📈. I'm dedicated to writing code✍️ that is not only clean and efficient💨 but also effective in solving practical problems⛔. Whether it's developing applications💻, optimizing algorithms🔩, or streamlining processes💾. Here, in my GitHub repository🛄, you will find a diverse collection of projects📋 and programs📺 that span various domains and technologies🦾. Feel free to browse through my repositories and explore the codes. I am always open to feedback and collaboration, so don’t hesitate to reach out!😊</h2>
 
 ###
@@ -28,7 +27,10 @@ Certainly! As a software developer, I specialize in JAVA PROGRAMMING📺 and thr
   <img width="12" />
   <a href="https://en.wikipedia.org/wiki/Git" target="_blank">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  /></a>
   <img width="12" />
-  <a href="https://en.wikipedia.org/wiki/Eclipse_(software)" target="_blank"> <img src="https://github.com/abhishek-kr03/abhishek-kr03/assets/166202255/bf83801b-0225-41f1-8098-138d0682a67f" height="30" alt="eclipse logo"  /></a>
+  <a href="https://en.wikipedia.org/wiki/Eclipse_(software)" target="_blank"> <img src="https://github.com/abhishek-kr03/abhishek-kr03/assets/166202255/bf83801b-0225-41f1-8098-138d0682a67f" height="30" alt="eclipse logo"  /></a> <br>
+
+  <img height="200" src="https://github.com/abhishek-kr03/abhishek-kr03/assets/166202255/393fe8f7-6b8d-47b2-a9c2-bf8d116d9c41"/>  
+
   
 </div>
 
