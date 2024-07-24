@@ -24,17 +24,15 @@ Certainly! As a software developer, I specialize in JAVA PROGRAMMING📺 and thr
   <img width="12" />
   <a href="https://en.wikipedia.org/wiki/Git" target="_blank">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  /></a>
   <img width="12" />
-  <a href="https://en.wikipedia.org/wiki/Eclipse_(software)" target="_blank"> <img src="https://github.com/abhishek-kr03/abhishek-kr03/assets/166202255/bf83801b-0225-41f1-8098-138d0682a67f" height="30" alt="eclipse logo"  /></a>
+  <a href="https://en.wikipedia.org/wiki/Eclipse_(software)" target="_blank"> <img src="https://github.com/abhishek-kr03/abhishek-kr03/assets/166202255/bf83801b-0225-41f1-8098-138d0682a67f" height="30"         
+  alt="eclipse logo"  /></a>
   </p>
 </div>
 
-
-###
-
-
 ## 🛠️ Technologies and Tools I use:
+
 <div align="left">
-  
+  <p>
   <a href="https://www.instagram.com/ig_abhishek03/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -53,7 +51,7 @@ Certainly! As a software developer, I specialize in JAVA PROGRAMMING📺 and thr
   <a href="https://twitter.com/abhishek__kr03" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-
+  </p>
   
 </div>
 
