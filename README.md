@@ -9,7 +9,7 @@ Certainly! As a software developer, I specialize in JAVA PROGRAMMING📺 and thr
 ## 🛠️ Technologies and Tools I use:
 
 <div align="left">
-<img align="right" height="290px" src="https://github.com/user-attachments/assets/955cfe0b-dd9b-442c-a925-92a1bde06a33"/>
+<img align="right" height="290px" src="https://github.com/abhishek-kr03/abhishek-kr03/assets/166202255/393fe8f7-6b8d-47b2-a9c2-bf8d116d9c41"/>
   
   <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  /></a>
   <img width="12" />
@@ -52,9 +52,7 @@ Certainly! As a software developer, I specialize in JAVA PROGRAMMING📺 and thr
   </a>
   <a href="https://twitter.com/abhishek__kr03" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a> <br>
-
-  <img height="200" src="https://github.com/abhishek-kr03/abhishek-kr03/assets/166202255/393fe8f7-6b8d-47b2-a9c2-bf8d116d9c41"/>  
+  </a>
 
   
 </div>
