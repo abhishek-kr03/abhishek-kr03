@@ -28,7 +28,7 @@ Certainly! As a software developer, I specialize in JAVA PROGRAMMING📺 and thr
   alt="eclipse logo"  /></a>
   <img width="12" />
   <a href="https://en.wikipedia.org/wiki/Spring_Framework" target="_blank"> <img src="https://github.com/user-attachments/assets/d53a79ec-2f29-40c6-a1a9-83bb4e20f27d" height="30" alt="spring logo"/></a>
-  <img width="10" /> <br>
+  <img width="10" />
   <a href="https://en.wikipedia.org/wiki/Hibernate_(framework)" target="_blank"> <img src="https://github.com/user-attachments/assets/de40fb24-93d4-4939-baf1-f50dd52bdd2b" height="30" alt="hibernate logo!""/></a>
 
   </p>
