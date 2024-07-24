@@ -5,8 +5,6 @@ Certainly! As a software developer, I specialize in JAVA PROGRAMMING📺 and thr
 
 ###
 
-## 🛠️ Technologies and Tools I use:
-
 <div align="left">
 <img align="right" height="240px" src="https://github.com/user-attachments/assets/262deb95-89bf-4685-99cd-276714fbf8e1"/>
   
