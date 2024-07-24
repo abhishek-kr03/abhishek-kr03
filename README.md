@@ -2,6 +2,9 @@
 
 ###
 
+![thoughtworks-gif_dribbble](https://github.com/user-attachments/assets/0cd3d682-40c9-4e0e-9614-5d80a2a9281d)
+
+
 <img align="right" height="150" src="https://github.com/abhishek-kr03/abhishek-kr03/assets/166202255/393fe8f7-6b8d-47b2-a9c2-bf8d116d9c41"  />
 
 ###
