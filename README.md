@@ -29,7 +29,7 @@ Certainly! As a software developer, I specialize in JAVA PROGRAMMING📺 and thr
   </p>
 </div>
 
-## 🛠️ Technologies and Tools I use:
+###
 
 <div align="left">
   <p>
