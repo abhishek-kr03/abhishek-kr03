@@ -10,7 +10,6 @@ Certainly! As a software developer, I specialize in JAVA PROGRAMMING📺 and thr
   <img align="right" height="240px" src="https://github.com/user-attachments/assets/262deb95-89bf-4685-99cd-276714fbf8e1"/>
   <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  /></a>
   <img width="12" />
-    
   <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /> </a>
   <img width="12" />
   <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /></a>
@@ -21,11 +20,11 @@ Certainly! As a software developer, I specialize in JAVA PROGRAMMING📺 and thr
   <img width="12" />
   <a href="https://en.wikipedia.org/wiki/Oracle_Database" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  /></a>
   <img width="12" />
-  <a href="https://en.wikipedia.org/wiki/Jakarta_EE" target="_blank"> <img src="https://github.com/user-attachments/assets/1d643753-76db-4f6b-af2f-5ab60ca5ca7e" height="30" alt="JakartaEE logo!""/></a>
+  <a href="https://en.wikipedia.org/wiki/Jakarta_EE" target="_blank"> <img src="https://github.com/user-attachments/assets/1d643753-76db-4f6b-af2f-5ab60ca5ca7e" height="30" alt="JakartaEE logo!"/></a>
   <img width="12" />
   <a href="https://en.wikipedia.org/wiki/Spring_Framework" target="_blank"> <img src="https://github.com/user-attachments/assets/d53a79ec-2f29-40c6-a1a9-83bb4e20f27d" height="30" alt="spring logo"/></a>
   <img width="10" />
-  <a href="https://en.wikipedia.org/wiki/Hibernate_(framework)" target="_blank"> <img src="https://github.com/user-attachments/assets/dcfdfd34-5d6b-45ba-a562-1ca6581cbe00" height="30" alt="hibernate logo!""/></a>
+  <a href="https://en.wikipedia.org/wiki/Hibernate_(framework)" target="_blank"> <img src="https://github.com/user-attachments/assets/dcfdfd34-5d6b-45ba-a562-1ca6581cbe00" height="30" alt="hibernate logo!"/></a>
   <img width="10" />  
   <a href="https://en.wikipedia.org/wiki/IntelliJ_IDEA" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  /></a>
   <img width="12" />
@@ -33,8 +32,6 @@ Certainly! As a software developer, I specialize in JAVA PROGRAMMING📺 and thr
   <img width="12" />
   <a href="https://en.wikipedia.org/wiki/Eclipse_(software)" target="_blank"> <img src="https://github.com/abhishek-kr03/abhishek-kr03/assets/166202255/bf83801b-0225-41f1-8098-138d0682a67f" height="30"         
   alt="eclipse logo"  /></a>
-
-
   </p>
 </div>
 
