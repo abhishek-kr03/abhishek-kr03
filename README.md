@@ -1,4 +1,4 @@
-<h2 align="left">🚀Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="80px"> and welcome😃, I'm Abhishek, a dedicated software developer🧑‍💻. 
+<h2 align="left">🚀Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="290px"> and welcome😃, I'm Abhishek, a dedicated software developer🧑‍💻. 
 <img align="right" height="150" src="https://github.com/abhishek-kr03/abhishek-kr03/assets/166202255/393fe8f7-6b8d-47b2-a9c2-bf8d116d9c41"/>  
 Certainly! As a software developer, I specialize in JAVA PROGRAMMING📺 and thrive on tackling real-world challenges📈. I'm dedicated to writing code✍️ that is not only clean and efficient💨 but also effective in solving practical problems⛔. Whether it's developing applications💻, optimizing algorithms🔩, or streamlining processes💾. Here, in my GitHub repository🛄, you will find a diverse collection of projects📋 and programs📺 that span various domains and technologies🦾. Feel free to browse through my repositories and explore the codes. I am always open to feedback and collaboration, so don’t hesitate to reach out!😊</h2>
 
@@ -10,7 +10,7 @@ Certainly! As a software developer, I specialize in JAVA PROGRAMMING📺 and thr
 ## 🛠️ Technologies and Tools I use:
 
 <div align="left">
-<img align="right" height="150" src="https://github.com/user-attachments/assets/955cfe0b-dd9b-442c-a925-92a1bde06a33"/>
+<img align="right" height="290px" src="https://github.com/user-attachments/assets/955cfe0b-dd9b-442c-a925-92a1bde06a33"/>
   
   <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  /></a>
   <img width="12" />
