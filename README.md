@@ -5,9 +5,9 @@ Certainly! As a software developer, I specialize in JAVA PROGRAMMING📺 and thr
 
 ## 🛠️ Technologies and Tools I use:
 
-<img align="right" height="240px" src="https://github.com/user-attachments/assets/262deb95-89bf-4685-99cd-276714fbf8e1"/>
 <p>
 <div align="left">
+<img align="right" height="240px" src="https://github.com/user-attachments/assets/262deb95-89bf-4685-99cd-276714fbf8e1"/>
   <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  /></a>
   <img width="12" />
   <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /> </a>
