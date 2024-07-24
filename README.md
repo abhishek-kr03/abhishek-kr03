@@ -3,7 +3,7 @@ Certainly! As a software developer, I specialize in JAVA PROGRAMMING📺 and thr
 
 ###
 
-## 🛠️ Technologies and Tools I use:
+## <img src="https://github.com/user-attachments/assets/28225e58-3792-4e01-8325-79bc0fbcc89e" width="30px" height="30px"> Technologies and Tools I use:
 
 <p>
 <div align="left">
