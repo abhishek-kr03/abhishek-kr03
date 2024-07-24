@@ -1,14 +1,16 @@
-<h2 align="left">🚀Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> and welcome😃, I'm Abhishek, a dedicated software developer🧑‍💻. Certainly! As a software developer, I specialize in JAVA PROGRAMMING📺 and thrive on tackling real-world challenges📈. I'm dedicated to writing code✍️ that is not only clean and efficient💨 but also effective in solving practical problems⛔. Whether it's developing applications💻, optimizing algorithms🔩, or streamlining processes💾. Here, in my GitHub repository🛄, you will find a diverse collection of projects📋 and programs📺 that span various domains and technologies🦾. Feel free to browse through my repositories and explore the codes. I am always open to feedback and collaboration, so don’t hesitate to reach out!😊</h2>
+<h2 align="left">🚀Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> and welcome😃, I'm Abhishek, a dedicated software developer🧑‍💻. 
+<img align="right" height="150" src="https://github.com/abhishek-kr03/abhishek-kr03/assets/166202255/393fe8f7-6b8d-47b2-a9c2-bf8d116d9c41"/>  
+Certainly! As a software developer, I specialize in JAVA PROGRAMMING📺 and thrive on tackling real-world challenges📈. I'm dedicated to writing code✍️ that is not only clean and efficient💨 but also effective in solving practical problems⛔. Whether it's developing applications💻, optimizing algorithms🔩, or streamlining processes💾. Here, in my GitHub repository🛄, you will find a diverse collection of projects📋 and programs📺 that span various domains and technologies🦾. Feel free to browse through my repositories and explore the codes. I am always open to feedback and collaboration, so don’t hesitate to reach out!😊</h2>
 
 ###
 
-<img align="right" height="150" src="https://github.com/abhishek-kr03/abhishek-kr03/assets/166202255/393fe8f7-6b8d-47b2-a9c2-bf8d116d9c41"  />
 
 ###
 
 ## 🛠️ Technologies and Tools I use:
 
 <div align="left">
+<img align="right" height="150" src="![thoughtworks-gif_dribbble](https://github.com/user-attachments/assets/0cd3d682-40c9-4e0e-9614-5d80a2a9281d)"/>
   
   <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  /></a>
   <img width="12" />
@@ -54,9 +56,6 @@
   </a>
   
 </div>
-
-![thoughtworks-gif_dribbble](https://github.com/user-attachments/assets/0cd3d682-40c9-4e0e-9614-5d80a2a9281d)
-
 
 ###
 
