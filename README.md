@@ -32,6 +32,8 @@ Certainly! As a software developer, I specialize in JAVA PROGRAMMING📺 and thr
 
 ###
 
+## <img src="https://github.com/user-attachments/assets/1eed9e87-93b3-46d0-890f-52191d98bdb8" width="30px" height="30px"> Let's get connected:
+
 <div align="left">
   
   <a href="https://www.instagram.com/ig_abhishek03/" target="_blank">
